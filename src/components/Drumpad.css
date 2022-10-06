@@ -1,0 +1,90 @@
+*{
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+html{
+  background-color: #5cb8e4;
+  
+}
+
+#drum-machine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5cb8e4;
+padding:0;
+  height: 100vh;
+  width: 100%;
+  margin:0;
+  
+}
+
+h1{
+    margin:0 auto;
+    
+}
+.drum-pad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95px;
+  height: 95px;
+  
+  border-radius: 50%;
+  margin: 0 auto;
+  padding: 0;
+  background-color: #8758ff;
+
+}
+
+
+.app-name{
+  font-family: 'Pacifico', cursive;
+  color:#8758ff;
+  text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+
+}
+#wrapper {
+ height:100vh;
+  margin: 0 auto;
+  
+  
+}
+
+
+
+#display {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  background-image:linear-gradient(to right,black,#8758ff);
+  
+  width: 13em;
+  height:2.5em;
+  max-width:500px;
+  max-height: 100px;
+color:white;
+
+  margin: 1em auto;
+  text-transform: capitalize;
+}
+  
+  #drum-pads {
+    background-color: #f2f2f2;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 0.5rem;
+  padding: 0 auto;
+  border-radius: 1.5em;
+  align-items: center;
+  justify-content: center;
+  margin:0 auto;
+  width:25em;
+  height:25em;
+  max-width: 370px;
+  max-height: 370px;
+  border:#8758ff solid 4px;
+}

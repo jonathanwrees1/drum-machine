@@ -1,0 +1,31 @@
+#drum-pads2 {
+    background-color: #8758ff;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 0.5rem;
+  padding: 0 auto;
+  border-radius: 1.5em;
+  align-items: center;
+  justify-content: center;
+  margin:0 auto;
+  width:25em;
+  height:25em;
+  max-width: 370px;
+  max-height: 370px;
+  border:white solid 3px;
+}
+
+
+.drum-pad2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 95px;
+    height: 95px;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #f2f2f2;
+   
+  }
+  
