@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jonathanwrees1.github.io/drum-machine/static/css/main.cd5991d5.css",
+    "main.js": "/jonathanwrees1.github.io/drum-machine/static/js/main.7c422348.js",
+    "static/media/Click-Clock.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Click-Clock.b2fd222cedba41ba8650.mp3",
+    "static/media/Ka-Chunk.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Ka-Chunk.84e222bfdf739420faa4.mp3",
+    "static/media/Zippers.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Zippers.72d2dae45f1d4a7f6339.mp3",
+    "static/media/Quarters.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Quarters.b598d5adb73eec5f3c22.mp3",
+    "static/media/Rattle.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Rattle.6345e5a36ee7c31551a1.mp3",
+    "static/media/Whistle.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Whistle.eb4da983c7cab95086ad.mp3",
+    "static/media/Pop.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Pop.f5d32ee90bd66c02ea9c.mp3",
+    "static/media/Frog.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Frog.d92385982d8e756e53b2.mp3",
+    "static/media/Zip.mp3": "/jonathanwrees1.github.io/drum-machine/static/media/Zip.90fb62495e0e88c39f21.mp3",
+    "index.html": "/jonathanwrees1.github.io/drum-machine/index.html",
+    "main.cd5991d5.css.map": "/jonathanwrees1.github.io/drum-machine/static/css/main.cd5991d5.css.map",
+    "main.7c422348.js.map": "/jonathanwrees1.github.io/drum-machine/static/js/main.7c422348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5991d5.css",
+    "static/js/main.7c422348.js"
+  ]
+}
