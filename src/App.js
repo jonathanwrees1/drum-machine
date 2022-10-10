@@ -11,52 +11,61 @@ import Soundfile6 from './components/my-sounds/Rattle.mp3';
 import Soundfile7 from './components/my-sounds/Whistle.mp3';
 import Soundfile8 from './components/my-sounds/Zip.mp3';
 import Soundfile9 from './components/my-sounds/Zippers.mp3';
+import Soundfile10 from './components/my-sounds/Heater-1.mp3';
+import Soundfile11 from './components/my-sounds/Heater-2.mp3';
+import Soundfile12 from './components/my-sounds/Heater-3.mp3';
+import Soundfile13 from './components/my-sounds/Heater-4_1.mp3';
+import Soundfile14 from './components/my-sounds/clap.mp3';
+import Soundfile15 from './components/my-sounds/open-hh.mp3';
+import Soundfile16 from './components/my-sounds/Kick_n_Hat.mp3';
+import Soundfile17 from './components/my-sounds/RP4_KICK_1.mp3';
+import Soundfile18 from './components/my-sounds/closed-hh.mp3';
 
 const data = [
   {
     id: 'heater-1',
     letter: 'Q',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3',
+    src: Soundfile10,
   },
   {
     id: 'heater-2',
     letter: 'W',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3',
+    src: Soundfile11,
   },
   {
     id: 'heater-3',
     letter: 'E',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3',
+    src: Soundfile12,
   },
   {
     id: 'heater-4',
     letter: 'A',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3',
+    src: Soundfile13,
   },
   {
     id: 'clap',
     letter: 'S',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3',
+    src: Soundfile14,
   },
   {
     id: 'open-hh',
     letter: 'D',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3',
+    src: Soundfile15,
   },
   {
     id: 'kick+hat',
     letter: 'Z',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3',
+    src: Soundfile16,
   },
   {
     id: 'kick',
     letter: 'X',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3',
+    src: Soundfile17,
   },
   {
     id: 'closed-hh',
     letter: 'C',
-    src: 'https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3',
+    src: Soundfile18,
   },
 ];
 
